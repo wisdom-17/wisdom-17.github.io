@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Saeed Bhuta Software Engineer</title>
+    <title>Saeed Bhuta</title>
     <link href="https://jigsaw-blog-template.tighten.co/blog" />
     <link type="application/atom+xml" rel="self" href="https://jigsaw-blog-template.tighten.co/blog/feed.atom" />
-    <updated>2022-06-26T14:13:52+00:00</updated>
+    <updated>2022-06-28T16:04:50+00:00</updated>
     <id>https://jigsaw-blog-template.tighten.co/blog/feed.atom</id>
     <author>
         <name>Saeed Bhuta</name>
